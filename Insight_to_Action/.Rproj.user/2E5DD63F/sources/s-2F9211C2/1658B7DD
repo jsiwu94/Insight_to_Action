@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573930217368.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1658B7DD",
+    "lastKnownWriteTime" : 1573930213,
+    "last_content_update" : 1573930213,
+    "path" : "~/Desktop/Website/Insight_to_Action/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "21,20",
+        "scrollLine" : "14"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
